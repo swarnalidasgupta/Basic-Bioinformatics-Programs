@@ -2,5 +2,5 @@
 
 Python code relevant to common bioinformatics problems
 Author- Swarnali Dasgupta
-Method of running- Using standard Python interpreter
+Method of running- Runs on Linux or any other standard CLI
 
